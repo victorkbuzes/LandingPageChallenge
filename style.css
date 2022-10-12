@@ -1,0 +1,4 @@
+section .col .borderless
+{
+    border: none;
+}
